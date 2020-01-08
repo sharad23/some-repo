@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+some thing added
+
+=======
+a
+>>>>>>> some commit
+=======
+ ba
+>>>>>>> b added
